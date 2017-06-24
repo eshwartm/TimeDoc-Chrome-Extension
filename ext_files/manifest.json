@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "TimeDoc",
+  "description": "This extension shows a list of tasks for users of your company",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "ext_icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
