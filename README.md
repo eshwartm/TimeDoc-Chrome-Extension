@@ -15,12 +15,7 @@ Click the 3 vertical dots at the top right of Google Chrome browser -> Go to Mor
 How to use: 
 1. Click on the icon on the top right which stands for the extension installed.
 2. A popup will open asking you to "Authenticate" 
-3. This will open a new tab asking you for your TimeDoctor credentials. Enter the credentials given below: 
-
-Credentials:
-doc.time.test@gmail.com
-doc_tester$%
-
+3. This will open a new tab asking you for your TimeDoctor credentials. Enter the credentials sent in the email. 
 4. Click on "Yes, I'll Allow Access" if you wish to proceed. 
 5. This will open a page which shows Tasks (Initially Empty).
 6. Click on a button called "Users Menu". 
