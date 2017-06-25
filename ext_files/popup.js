@@ -48,8 +48,8 @@ function getCurrentTabUrl(callback) {
 }
 
 
-var clientID = "727_6dgr47m1860wcwk4w8ogksg8ks0g4ow088ccgg408kw88kkk4c";
-var authURL = "https://webapi.timedoctor.com/oauth/v2/auth?client_id=" + clientID + "&redirect_uri=http://timedoc.com:8080&response_type=token";
+var clientID = "729_3wevx5roqwg0og8sw4ggso0cc888s4go04kwc40kgckk8ww080";
+var authURL = "https://webapi.timedoctor.com/oauth/v2/auth?client_id=" + clientID + "&redirect_uri=http://localhost:8080&response_type=token";
 
 document.addEventListener('DOMContentLoaded', function() {
   let authButton = document.getElementById("auth-button");
